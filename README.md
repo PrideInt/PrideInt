@@ -16,5 +16,3 @@ Developer for [@ProjectKorra](https://github.com/ProjectKorra).
 ##
 
 [![An image of @prideint's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prideint)](https://holopin.io/@prideint)
-
-##
