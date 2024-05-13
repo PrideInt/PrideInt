@@ -10,7 +10,7 @@ Developer for [@ProjectKorra](https://github.com/ProjectKorra).
 ##
 
 <p align="center">
-  <img src="https://github.com/PrideInt/PrideInt/assets/20098992/ec2682ec-d8c8-41a6-8b2c-45daac5d2b3e" width="720"/>
+  <img src="https://github.com/PrideInt/PrideInt/assets/20098992/cd096914-0922-420d-bbdf-ed2925e90170" width="720"/>
 </p>
 
 ##
