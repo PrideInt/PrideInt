@@ -1,6 +1,10 @@
 ### I'm Pride
 
-I'm an undergraduate student studying computer and data science and biology in computational biology/bioinformatics. I also really like ecological and atmospheric sciences. I do machine learning stuff, full stack stuff, research stuff, proteomics stuff, flower stuff, filmmaking stuff, screenplay stuff, cooking stuff. NYC HIVE!!
+I'm a computer and data science and biology student studying software development and computational biology/bioinformatics and working in research on developing a predictive machine learning model
+based on LLM image classification to predict plant genera. I also get involved in genomics, proteomics, evolutionary biology, botany, and ecological and atmospheric sciences.
+Secretly (not really🤭), I'm more skillful at software and full stack development.
+
+I'm otherwise writing screenplay and doing filmmaking stuff, stargazing, storm watching, cooking, watching movies or sleeping.
 
 You might find me watching a lot of films because that's probably where I would've ended up if I hadn't touched a computer. That is Bilal Hasna on my profile picture. 
 > ***In Oscar Isaac we trust.***
