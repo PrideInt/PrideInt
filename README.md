@@ -1,4 +1,4 @@
-### I'm Pride
+# I'm Pride
 
 I'm a computer and data science and biology student studying software development and computational biology/bioinformatics, and working in research on developing a predictive machine learning model
 based on LLM image classification to predict plant genera. I also get involved in omics (genomics, proteomics, metagenomics), evolutionary biology, botany, and ecological and atmospheric sciences.
