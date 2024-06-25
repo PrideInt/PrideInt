@@ -6,7 +6,7 @@ Secretly (not really), I have a better hand at software and full stack developme
 
 I'm otherwise writing screenplay and doing filmmaking stuff, stargazing, storm watching, cooking, watching movies or sleeping.
 
-You might find me watching a lot of films because that's probably where I would've ended up if I hadn't touched a computer. That is Bilal Hasna on my profile picture. 
+You might find me watching a lot of films because that's probably where I would've ended up if I hadn't touched a computer. That is Oscar Isaac on my profile picture. 
 > ***In Oscar Isaac we trust.***
 
 Developer for [@ProjectKorra](https://github.com/ProjectKorra).
