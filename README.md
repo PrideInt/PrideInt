@@ -14,7 +14,7 @@ Developer for [@ProjectKorra](https://github.com/ProjectKorra).
 ##
 
 <p align="center">
-  <img src="https://github.com/PrideInt/PrideInt/assets/20098992/fc4d4c5c-01cd-432c-9d7a-bee942c1b9e1" width="60%"/>
+  <img src="https://github.com/PrideInt/PrideInt/assets/20098992/b347f721-1b8a-4373-9007-d421d41fa7d7" width="55%"/>
 </p>
 
 ##
