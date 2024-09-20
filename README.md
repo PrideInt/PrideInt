@@ -1,7 +1,7 @@
 # I'm Pride
 
-I'm a computer and data science and biology student studying software development and computational biology/bioinformatics, and working in research on developing a predictive machine learning model
-based on LLM image classification to predict plant genera. I also get involved in omics (genomics, proteomics, metagenomics), evolutionary biology, botany, and ecological and atmospheric sciences.
+I'm a computer and data science and biology student studying software development and computational biology/bioinformatics, as well as working in research on developing a predictive machine learning model
+based on LLM image classification to predict plant genera. I also get involved in omics (genomics, metagenomics, metabolomics, proteomics), evolutionary biology, botany, and ecological and atmospheric sciences.
 Secretly (not really), I have a better hand at software and full stack development.
 
 I'm otherwise writing screenplay and doing filmmaking stuff, stargazing, storm watching, cooking, watching movies or sleeping.
@@ -14,7 +14,7 @@ Developer for [@ProjectKorra](https://github.com/ProjectKorra).
 ##
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7a9c4c07-c6b3-4912-b66c-abe60e50d5fd" width="55%"/>
+  <img src="https://github.com/user-attachments/assets/7d466a81-b9bd-4c20-8ce1-31398697e303" width="55%"/>
 </p>
 
 ##
