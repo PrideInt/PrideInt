@@ -14,7 +14,7 @@ Developer for [@ProjectKorra](https://github.com/ProjectKorra).
 ##
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7d466a81-b9bd-4c20-8ce1-31398697e303" width="55%"/>
+  <img src="https://github.com/user-attachments/assets/c14fa570-602b-4f69-b332-fe6b070caa44" width="45%"/>
 </p>
 
 ##
