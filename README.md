@@ -14,9 +14,13 @@ Developer for [@ProjectKorra](https://github.com/ProjectKorra).
 ##
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/282ce57b-9c3f-49a8-b465-e946f96f5797" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/b3f4fa41-04b8-46ed-af59-e97b21c56656" height="250" width="1000" display="flex"/>
 </p>
 
 ##
 
-[![An image of @prideint's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prideint)](https://holopin.io/@prideint)
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+</p>
+
+<!-- [![An image of @prideint's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prideint)](https://holopin.io/@prideint) -->
