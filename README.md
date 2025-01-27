@@ -23,4 +23,12 @@ Developer for [@ProjectKorra](https://github.com/ProjectKorra).
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </p>
 
+##
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,c,cpp,cs,python,js,rust,matlab,linux,docker,nodejs,angular,express,react,maven,gradle,jenkins,sklearn,mysql,sqlite,mongodb,aws,gcp,azure,raspberrypi,vim" width="50%" />
+  </a>
+</p>
+
 <!-- [![An image of @prideint's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prideint)](https://holopin.io/@prideint) -->
