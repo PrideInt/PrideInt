@@ -14,7 +14,8 @@ Developer for [@ProjectKorra](https://github.com/ProjectKorra).
 ##
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b3f4fa41-04b8-46ed-af59-e97b21c56656" width="100%" display="flex"/>
+  <img src="https://github.com/user-attachments/assets/542fa7d6-70e4-4028-ad5e-20778960eb5a" width="100%" display="flex"/>
+  <h6 align="right">NICKEL BOYS (2024)</h6>
 </p>
 
 ##
