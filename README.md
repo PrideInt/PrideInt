@@ -26,6 +26,10 @@ Developer for [@ProjectKorra](https://github.com/ProjectKorra).
 
 ##
 
+<img src="https://github.com/PrideInt/letterboxd-profile-gen/blob/master/recent.png" width="50%"/>
+
+##
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,java,c,cpp,cs,python,js,rust,matlab,linux,docker,nodejs,angular,express,react,maven,gradle,jenkins,sklearn,mysql,sqlite,mongodb,aws,gcp,azure,raspberrypi,vim" width="50%" />
