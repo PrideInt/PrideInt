@@ -26,7 +26,7 @@ Developer for [@ProjectKorra](https://github.com/ProjectKorra).
 
 ##
 
-<img src="https://github.com/PrideInt/letterboxd-profile-gen/blob/master/recent.png" width="50%"/>
+<a href="https://letterboxd.com/pridelightbourn/films/diary/"><img src="https://github.com/PrideInt/letterboxd-profile-gen/blob/master/recent.png" width="50%"/></a>
 
 ##
 
