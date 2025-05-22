@@ -14,8 +14,8 @@ Developer for [@ProjectKorra](https://github.com/ProjectKorra).
 ##
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b4c1731e-8627-43d0-b62c-73737f1cca31" width="100%" display="flex"/>
-  <h6 align="right">PADDINGTON 2 (2017)</h6>
+  <img src="https://github.com/user-attachments/assets/7814a692-0589-4e60-a73c-2fb9de61918d" width="100%" display="flex"/>
+  <h6 align="right">SINNERS (2025)</h6>
 </p>
 
 ##
