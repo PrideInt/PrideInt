@@ -14,8 +14,8 @@ Developer for [@ProjectKorra](https://github.com/ProjectKorra).
 ##
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7814a692-0589-4e60-a73c-2fb9de61918d" width="100%" display="flex"/>
-  <h6 align="right">SINNERS (2025)</h6>
+  <img src="https://github.com/user-attachments/assets/778cc02d-ac32-4db9-90df-80c0d8ec2a3c" width="100%" display="flex"/>
+  <h6 align="right">MARTY SUPREME (2025)</h6>
 </p>
 
 ##
