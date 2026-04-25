@@ -1,7 +1,9 @@
 # I'm Pride
 
-I'm a computer and data science and biology student studying software development and computational biology/bioinformatics, as well as working in research on developing a predictive machine learning model
-based on LLM image classification to predict plant genera. I also get involved in omics (genomics, metagenomics, metabolomics, proteomics), evolutionary biology, botany, and ecological and atmospheric sciences.
+I'm a computational biomedicine student studying research bioinformatics, biomedical informatics and computational biology. 
+I am involved in a wide array of omics (genomics, metagenomics, metabolomics, proteomics), evolutionary biology, and neurobiology.
+I have participated and coauthored federally sponsored research; patenting and developing computational models to analyze responsive 
+metabolic composites offsetting ecological growth of the endangered and largest plant species in the world.
 Secretly (not really), I have a better hand at software and full stack development.
 
 I'm otherwise writing screenplay and doing filmmaking stuff, stargazing, storm watching, cooking, watching movies or sleeping.
