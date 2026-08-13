@@ -2,23 +2,14 @@
 
 I'm a computational biomedicine student studying research bioinformatics, biomedical informatics and computational biology. 
 I am involved in a wide array of omics (genomics, metagenomics, metabolomics, proteomics), evolutionary biology, and neurobiology.
-I have participated and coauthored federally sponsored research; patenting and developing computational models to analyze responsive 
-metabolic composites offsetting ecological growth of the endangered and largest plant species in the world.
-Secretly (not really), I have a better hand at software and full stack development.
-
-I'm otherwise writing screenplay and doing filmmaking stuff, stargazing, storm watching, cooking, watching movies or sleeping.
+I have participated in and coauthored federally sponsored research; developing computational models to analyze metatranscriptomic data, 
+predictive analytics in cladistics, phylogeny and plant taxonomy, 
+and identifying responsive metabolic composites offsetting ecological growth of the endangered and largest plant species in the world.
 
 You might find me watching a lot of films because that's probably where I would've ended up if I hadn't touched a computer. That is Oscar Isaac on my profile picture. 
 > ***In Oscar Isaac we trust.***
 
 Developer for [@ProjectKorra](https://github.com/ProjectKorra).
-
-##
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/778cc02d-ac32-4db9-90df-80c0d8ec2a3c" width="100%" display="flex"/>
-  <h6 align="right">MARTY SUPREME (2025)</h6>
-</p>
 
 ##
 
