@@ -9,7 +9,7 @@ and identifying responsive metabolic composites answering ecological growth of t
 You might find me watching a lot of films because that's probably where I would've ended up if I hadn't touched a computer. That is Oscar Isaac on my profile picture. 
 > ***In Oscar Isaac we trust.***
 
-Bioinformatics Consultant for U.S. Botanic Garden.\n
+Bioinformatics Consultant for U.S. Botanic Garden.  
 Developer for [@ProjectKorra](https://github.com/ProjectKorra).
 
 ##
