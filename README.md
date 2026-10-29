@@ -1,14 +1,15 @@
 # I'm Pride
 
 I'm a computational biomedicine student studying research bioinformatics, biomedical informatics and computational biology. 
-I am involved in a wide array of omics (genomics, metagenomics, metabolomics, proteomics), evolutionary biology, and neurobiology.
+I am involved in a wide array of omics (pharmacogenomics, transcriptomics, metabolomics), clinical psychopathology, neurobiology, and psychiatric medicine.
 I have participated in and coauthored federally sponsored research; developing computational models to analyze metatranscriptomic data, 
-predictive analytics in cladistics, phylogeny and plant taxonomy, 
-and identifying responsive metabolic composites offsetting ecological growth of the endangered and largest plant species in the world.
+predictive analytics in pharmacogenomics, cladistics, phylogeny and plant taxonomy, 
+and identifying responsive metabolic composites answering ecological growth of the endangered and largest plant species in the world.
 
 You might find me watching a lot of films because that's probably where I would've ended up if I hadn't touched a computer. That is Oscar Isaac on my profile picture. 
 > ***In Oscar Isaac we trust.***
 
+Bioinformatics Consultant for U.S. Botanic Garden.
 Developer for [@ProjectKorra](https://github.com/ProjectKorra).
 
 ##
